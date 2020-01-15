@@ -1,0 +1,46 @@
+/* body { background-color: lightblue; }
+p {
+    background-color: yellow;
+} */
+/* p.parrafo_rojo{
+background-color:  red;
+}
+div {
+    border: black 3px solid; color: red;
+ }
+
+ p {
+    color: black;
+  }
+  p#nuevo {
+    color: green;
+  }
+  div#viejo {
+    border: black 3px solid;
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  div p#nuevo {
+    color: blue;
+  } */
+  
+  /* div#viejo p#nuevo {
+    color: green;
+  }   */
+  div.viejo {
+    border: black 3px solid;
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  div.viejo p {
+    color: red;
+  }
+    
+  div.viejo p.vell {
+    color: green;
+  }
+  div p {
+    color: black;
+  }
